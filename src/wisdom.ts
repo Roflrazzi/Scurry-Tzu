@@ -8,5 +8,5 @@ export default [
     "The rat does not wait for the storm to pass. It learns where the leaks begin.",
     "To rule the maze, one must love the quiet places where others fear to crawl.",
     "The rat trusts no cheese freely given.",
-    "A rat alone survives. A pack of rats changes the map.",
+    "A rat alone survives. A mischief of rats changes the map.",
 ];
